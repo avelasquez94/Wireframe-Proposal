@@ -1,0 +1,21 @@
+Name: Ariann Velasquez
+Project Title: Food Diary
+Project Stack: Python
+GitHub Repo Link:
+
+Project Description: It is where you log on what you eat and it's calorie count. 
+It will have Log in and Registration where you can log in if you are a registered user.
+If you are new, you can register and log in after. 
+It will have a Dashboard where there will be a view of the foods with a calorie count with it, 
+an edit and delete button where it will go to the edit/delete page, 
+an add button where it will take you to the create page and add your favorite food or the food you just had and add it's calorie count.
+A log out button to bring it back to the log in and registration page.
+
+New Programming concept(s) I'm planning to learn: More indept learning on CSS and practice more of Python.
+
+Week 1 Features (to show at Review during Week 2)
+
+Week 2 Features (to show at the first office hour/lecture of Week 3)
+
+Product Backlog (if I have more time after completing my MVP, 
+I'll start working on its CSS and self calculating of the food you log, similar to Myfitnespal)
